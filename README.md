@@ -1,4 +1,5 @@
-Text zadaný vyučujícím.
-Under development.
+ABC
+Text zadaný1 vyučujícím.
+er development.
 !!!
-???
+???_ - -??
