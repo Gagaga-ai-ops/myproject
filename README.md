@@ -1,2 +1,2 @@
 # Project
-## How to run
+## How to run.
