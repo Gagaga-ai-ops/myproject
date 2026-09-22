@@ -1,5 +1,2 @@
-ABC
-Text zadaný1 vyučujícím.
-er development.
-!!!
-???_ - -??
+# Project
+## How to run
