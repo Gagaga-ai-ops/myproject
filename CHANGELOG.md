@@ -1,1 +1,2 @@
 # Changelog
+## Added input validation
