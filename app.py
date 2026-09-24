@@ -1,5 +1,5 @@
 name = input("Enter your name: ")
-print(f"Hello, {name}!)".upper())
+print(f"Hello, {naame}!)".upper())
 
 name = input("Enter your name: ").strip()
 while not name:
